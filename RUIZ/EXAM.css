@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+.TRIBUTE {
+    position: absolute;
+    text-align: center;
+}
+.title{
+    position: relative;
+    text-align: center;
+}
+.BOX{
+    border: 1px;
+    padding: 10px;
+    margin: 20px;
+    background-color: #FAFAF0;
+    border-radius: 6px;
+    box-shadow: 0 0 0 2px black;
+}
+img{
+    border-radius: 90px;
+}
+img:hover{
+    cursor: pointer;
+    opacity: 0.5s;
+}
+.p1{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.p2{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.p3{
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.SURVEYS{
+    border: 1px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #FAFAF0;
+    border-radius: 20px;
+    text-align: center;
+}
+.SURVEY{
+    margin-top: 100PX;
+    align-items: center;
+}
+.forms{
+    
+}
+.submitButton{
+    font-size: 1rem;
+}
+.submitButton:hover{
+    cursor: pointer;
+    color: blue;
+    opacity: 0.5s;
+}
